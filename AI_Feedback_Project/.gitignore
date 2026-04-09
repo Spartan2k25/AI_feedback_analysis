@@ -1,0 +1,23 @@
+.DS_Store
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.log
+# Virtual environment
+venv/
+backend/venv/
+# Node / build artifacts
+frontend/build/
+frontend/node_modules/
+# OS files
+Thumbs.db
+.DS_Store
+# Editor files
+*.swp
+*.swo
+*.idea/
+.vscode/
